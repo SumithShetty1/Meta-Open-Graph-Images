@@ -1,0 +1,10 @@
+<svg viewBox="0 0 300 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background rectangle -->
+  <rect x="0" y="0" width="300" height="80" rx="8" fill="#0066cc"/>
+  
+  <!-- Camera icon -->
+  <path d="M40 25 h30 v20 h10 l10 -10 v20 l-10 -10 h-10 v20 h-30 z" fill="white"/>
+  
+  <!-- Text -->
+  <text x="100" y="50" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white">UnityChat</text>
+</svg>
